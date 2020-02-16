@@ -1,0 +1,13 @@
+
+@import url("images/container.css");
+@import url("images/avatar.css");
+
+body {
+	font-family: helvetica;
+	font-size: 20px;
+	color: green;
+}
+h1, h2, h3 {
+	font-family: times new roman;
+	font-weight: lighter;
+}
